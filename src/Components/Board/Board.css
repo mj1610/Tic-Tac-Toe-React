@@ -1,0 +1,9 @@
+.board {
+  margin: 2%;
+  display: inherit;
+  flex-direction: column;
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  width: 306px;
+  margin: 50px auto;
+}
